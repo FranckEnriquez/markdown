@@ -4,9 +4,9 @@ HTML is the building block of the web. It's what allows the web browser to rende
 
 ### Getting Started
 
-There are two ways of following this tutorial. I highly recommend installing Jupyter Notebook and following [Intro to Markdown.ipynb](Intro to Markdown.ipynb). Thankfully installing Jupyter Notebook is incredibly quickly and convenient. For instructions on installing Jupyter Notebook refer to the [installation documentation](http://jupyter.readthedocs.io/en/latest/install.html).
+There are two ways of following this tutorial. I highly recommend installing Jupyter Notebook and following the file entitled "Intro to Markdown.ipynb". Thankfully installing Jupyter Notebook is incredibly quickly and convenient. For instructions on installing Jupyter Notebook refer to the [installation documentation](http://jupyter.readthedocs.io/en/latest/install.html).
 
-If you prefer not to go that route, you can refer to the tutorial written in markdown entitled [intro_to_markdown.md](intro_to_markdown.md). Make sure to reference the raw markdown along with the rendered output on Github so you can match each raw markdown to output.
+If you prefer not to go that route, you can refer to the tutorial written in markdown entitled "intro_to_markdown.md". Make sure to reference the raw markdown along with the rendered output on Github so you can match each raw markdown to output.
 
 ### Feedback 
 
