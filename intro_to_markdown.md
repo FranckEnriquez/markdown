@@ -30,6 +30,7 @@ and unsuprisingly render:
 
 ## Let's get started! 
 
+Remember to check the raw markdown and output so you can get a one to one matching and know which markdown is responsible for which output. 
 
 ***
 
