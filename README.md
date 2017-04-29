@@ -8,7 +8,4 @@ There are two ways of following this tutorial. I highly recommend installing Jup
 
 If you prefer not to go that route, you can refer to the tutorial written in markdown entitled "intro_to_markdown.md". Make sure to reference the raw markdown along with the rendered output on Github so you can match each raw markdown to output.
 
-### Feedback 
-
-If there's any deficiencies or ways of improving, please tell those to me. I frequent [Twitter @dhexonian](https://twitter.com/dhexonian). If you Tweet or DM me feedback, I can get to it very promptly. 
 
